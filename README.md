@@ -1,2 +1,2 @@
 # SQL-Fundamentals-Excercises
-Uploaded 4 SQL Fundamentals exercises as I was starting to pick up on SQL.
+Uploaded 4 SQL Fundamentals exercises completed by me as homework as I was starting to pick up on SQL.
